@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+numpy==1.26.4
+redis==5.2.0
+slowapi==0.1.9
+tenacity==9.0.0
+python-multipart==0.0.12
